@@ -1,0 +1,28 @@
+{
+  "name": "naml",
+  "version": "1.0.0",
+  "description": "A JavaScript parser and serializer for NAML.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahvdAa/naml.js.git"
+  },
+  "keywords": [
+    "NAML",
+    "parser",
+    "stringifier",
+    "serializer"
+  ],
+  "author": "NoahvdAa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahvdAa/naml.js/issues"
+  },
+  "homepage": "https://github.com/NoahvdAa/naml.js#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
