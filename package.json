@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NoahvdAa/naml.js.git"
+    "url": "git+https://github.com/naml-conf/naml.js.git"
   },
   "keywords": [
     "NAML",
@@ -19,9 +19,9 @@
   "author": "NoahvdAa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NoahvdAa/naml.js/issues"
+    "url": "https://github.com/naml-conf/naml.js/issues"
   },
-  "homepage": "https://github.com/NoahvdAa/naml.js#readme",
+  "homepage": "https://github.com/naml-conf/naml.js#readme",
   "devDependencies": {
     "jest": "^27.3.1"
   }
